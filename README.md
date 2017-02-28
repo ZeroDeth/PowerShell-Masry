@@ -8,15 +8,14 @@ Configure DC1
 - DNS
 - DHCP
 
-Configure Servers
-Server1
+Configure Server1
 - DC
 - File
 - Print
 - Hyper-V
 - IIS
 
-Server2
+Configure Server2
 - Hyper-V
 
 Configure Client1
