@@ -1,0 +1,9 @@
+DistinguishedName,Department,SamAccountName,Name,GivenName,Surname,UserPrincipalName,City,Enabled,ChangePasswordAtLogon
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",Operations,ShawnM,ShawnM,Shawn,Melendez,ShawnM@masry.uk,London,$False,$True
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",IT,LynneB,LynneB,Lynne,Baxter,LynneB@masry.uk,London,$False,$True
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",Development,ClaudeL,ClaudeL,Claude,Loiselle,ClaudeL@masry.uk,London,$False,$True
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",Operations,TomT,TomT,Tom,Timmons,tomt@masry.uk,London,$False,$True
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",Operations,bobj,bobj,Bob,Jones,bobj@masry.uk,London,$False,$True
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",IT,todds,todds,Todd,Smith,todds@masry.uk,London,$False,$True
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",IT,smtest,smtest,Sherif,Moneim-Test,smtest@masry.uk,London,$True,$False
+"OU=Users,OU=London,OU=CompanyOU,DC=Masry,DC=UK",IT,smadmin,smadmin,Sherif,Moneim-Admin,smadmin@masry.uk,Cairo,$True,$False
