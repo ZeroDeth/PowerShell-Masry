@@ -1,6 +1,5 @@
 ﻿#Windows Server Administration Fundamentals With PowerShell
-#By Sherif Moneim
-#
+ 
 #Setup script for building course hosty environment
 #
 #Requirements: Physical and Virtual machines define in Intro module
